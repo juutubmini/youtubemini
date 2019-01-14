@@ -1,0 +1,17 @@
+{
+  "name": "youtubemini",
+  "version": "1.0.0",
+  "description": "small app using youtube API",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "Lubomir Lenard",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0",
+    "node-sass": "^4.11.0",
+    "sass": "^1.16.0"
+  }
+}

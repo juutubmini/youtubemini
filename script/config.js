@@ -8,9 +8,9 @@ const VIDEO_URL = 'https://www.youtube.com/watch?v=';
 const CHANNEL_URL = 'https://www.youtube.com/channel/';
 let URL = 'https://www.googleapis.com/youtube/v3/search/?';
 
-const defaultParams = {
+const defaultParamsSearch = {
   key: KEY,
   maxResults: MAX_RESULTS,
-  part: 'snippet',  
+  part: 'snippet',
   type: 'video'
 }
